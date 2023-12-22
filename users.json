@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 1,
+        "gender": "male",
+        "name": "Rahim Chowdhury",
+        "contact": "rahim.chowdhury123@gmail.com",
+        "address": "House 54, Road 11A, Dhanmondi, Dhaka",
+        "photoUrl": "https://example.com/images/user1.jpg"
+    },
+    {
+        "Id": 2,
+        "gender": "female",
+        "name": "Fatema Akter",
+        "contact": "fatema.akter.bd@yahoo.com",
+        "address": "Flat 6B, Green View Apartments, Gulshan, Dhaka",
+        "photoUrl": "https://example.com/images/user2.jpg"
+    },
+    {
+        "Id": 10,
+        "name": "evan"
+    }
+]
